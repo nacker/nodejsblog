@@ -22,7 +22,7 @@
     "markdown-it": "^8.4.2",
     "moment": "^2.24.0",
     "morgan": "~1.9.0",
-    "mysql": "^2.16.0",
+    "mysql": "^2.10.2",
     "pug": "2.0.0-beta11",
     "utility": "^1.15.0",
     "xtemplate": "^4.6.1",
