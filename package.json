@@ -1,0 +1,29 @@
+{
+  "name": "nodejsblog",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "blueimp-file-upload-node": "^2.1.0",
+    "body-parser": "^1.18.3",
+    "ccap": "^0.6.10",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "formidable": "^1.2.1",
+    "gm": "^1.23.1",
+    "http-errors": "^1.6.3",
+    "jquery-file-upload-middleware": "^0.1.8",
+    "markdown-it": "^8.4.2",
+    "moment": "^2.24.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.10.2",
+    "pug": "2.0.0-beta11",
+    "utility": "^1.15.0",
+    "xtemplate": "^4.6.1",
+    "xtpl": "^3.4.0"
+  }
+}
